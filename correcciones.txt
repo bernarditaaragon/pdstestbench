@@ -1,0 +1,8 @@
+Correcciones de las TSs:
+
+* TS3: Desparramo Espectral
+    * Estaría bueno un poco más de desarrollo de la introducción.
+    * Los gráficos en general están bien, solamente en el tercero tengo reparos, es como que usaste una curva 
+      continua, pero con líneas punteadas. En realidad, los espectros son discretos.
+    * Falta mucho más desarrollo en la conclusión. Falta una buena explicación de por qué aparece la forma de 
+      la sinc con mayor detalle comparado con la ventana implícita: Convolución en frecuencia.
