@@ -6,3 +6,13 @@ Correcciones de las TSs:
       continua, pero con líneas punteadas. En realidad, los espectros son discretos.
     * Falta mucho más desarrollo en la conclusión. Falta una buena explicación de por qué aparece la forma de 
       la sinc con mayor detalle comparado con la ventana implícita: Convolución en frecuencia.
+
+* TS4: Estimadores
+    * Buen trabajo en líneas generales.
+    * En los histogramas para la estimación de frecuencia no se distinguen las distribuciones correspondientes 
+      a la señal con ventana Rectangular aplicada por ejemplo. Por ahí era más conveniente separar los gráficos
+      para poder ver bien las distribuciones. En la estimación de amplitud, algo se puede ver, pero en la de 
+      frecuencia es más difícil.
+    * Los gráficos de los espectros están bien, pero les falta las etiquetas de los ejes verticales y 
+      horizontales, por ahí no hacía falta presentar todos. Con los dos más representativos era suficiente.
+    * Separá la sección de Conclusiones. 
