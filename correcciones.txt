@@ -16,3 +16,11 @@ Correcciones de las TSs:
     * Los gráficos de los espectros están bien, pero les falta las etiquetas de los ejes verticales y 
       horizontales, por ahí no hacía falta presentar todos. Con los dos más representativos era suficiente.
     * Separá la sección de Conclusiones. 
+
+  * TS4: Estimación Espectral
+    * Estaría bueno que incluyas algo más en la introducción
+    * Falta alguna justificación de por qué elegiste Welch y no Periodograma o Blackman-Tukey
+    * En el eje vertical de las señales en el tiempo ponés la etiqueta amplitud, pero estrictamente hablando la 
+      amplitud son los puntos extremos de la señal. Como etiqueta podías poner x(t) y ya estaba bien.
+    * En la conclusión, es mejor hablar de la varianza en la estimación. Que dicho sea de paso en ninguna parte 
+      mencionaste. 
