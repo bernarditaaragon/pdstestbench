@@ -24,3 +24,12 @@ Correcciones de las TSs:
       amplitud son los puntos extremos de la señal. Como etiqueta podías poner x(t) y ya estaba bien.
     * En la conclusión, es mejor hablar de la varianza en la estimación. Que dicho sea de paso en ninguna parte 
       mencionaste. 
+
+    * TS7: Filtros Digitales
+    * Falta un análisis de la respuesta de fase de los filtros.
+    * Falta también un poco más de trabajo en la elaboración del criterio de definición de la plantilla, 
+      particularmente en los valores de las atenuaciones.
+    * Los gráficos de las señales en el dominio del tiempo deberían estar en unidades de tiempo continuo: 
+      segundos o milisegundos. 
+    * El eje vertical de los gráficos de las señales en el dominio del tiempo tiene una etiqueta que no es del todo 
+      correcta, porque amplitud en todo caso se usa para los valores extremos de la señal.
